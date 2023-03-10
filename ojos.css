@@ -1,0 +1,30 @@
+.uno{
+    background-color: aqua;
+    display: inline-block;
+    padding:  40px 40px 40px 40px;
+    box-sizing: border-box;
+    text-align: center;
+    margin: 20px 10px;
+    border-radius: 10em;
+    border: -1px;
+  }
+  .dos{
+      background-color: aqua;
+      display: inline-block;
+      padding: 40px 40px 40px 40px;
+      box-sizing:border-box;
+      text-align: center;
+      margin: 20px 10px;
+      border-radius: 10em;
+      border: -10px;
+  }
+  .pupila{
+    background-color: rgb(15, 46, 184);
+      display: inline-block;
+      padding: 20px;
+      box-sizing: border-box;
+      text-align: center;
+      margin: 20px 10px;
+      border-radius: 15em;
+      border: 10px outset  rgb(69, 184, 34);
+  }
