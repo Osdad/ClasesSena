@@ -1,0 +1,36 @@
+* {
+    margin: 0px;
+}
+.titulo{
+    padding: 10px 10px 10px 10px;
+    color: red;
+    height: 300px;
+    width: 300px;
+    background-color: rgb(236, 236, 247);
+}
+.parrafo{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(9, 9, 231);
+}
+.bb{
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    background-color: rgb(223, 32, 89);
+}
+.container{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    padding: 50px 50px 50px 50px;
+    background-color: chartreuse;
+}
+.dentro{
+    width: 300px;
+    height: 300px;
+    background-color: burlywood;
+    color: aqua;
+    font-size: 15px;
+    text-align: center;
+}
